@@ -25,6 +25,10 @@
             <id>lyo-releases</id>
             <url>https://repo.eclipse.org/content/repositories/lyo-releases/</url>
         </repository>
+        <repository>
+            <id>atlassian-releases</id>
+            <url>https://packages.atlassian.com/mvn/maven-atlassian-external/</url>
+        </repository>
     </repositories>
     <dependencies>
         <!-- Add dependency on jira-core if you want access to JIRA implementation classes as well as the sanctioned API. -->
