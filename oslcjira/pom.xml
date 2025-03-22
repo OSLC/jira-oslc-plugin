@@ -27,7 +27,7 @@
         </repository>
         <repository>
             <id>atlassian-releases</id>
-            <url>https://packages.atlassian.com/mvn/maven-atlassian-external/</url>
+            <url>https://maven.artifacts.atlassian.com/</url>
         </repository>
     </repositories>
     <dependencies>
