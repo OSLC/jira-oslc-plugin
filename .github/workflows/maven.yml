@@ -8,6 +8,7 @@ on:
   schedule:
     - cron: "30 4 * * 4" # catch SNAPSHOT breaking changes
   workflow_dispatch:
+  merge_group:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
