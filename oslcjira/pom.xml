@@ -229,7 +229,7 @@
             <groupId>jta</groupId>
             <artifactId>jta</artifactId>
             <version>1.0.1b</version>
-        </dependency>Ï
+        </dependency>
     </dependencies>
     <build>
         <plugins>
