@@ -221,12 +221,12 @@
         -->
 
         <dependency>
-            <groupId>jndi</groupId>
+            <groupId>javax.naming</groupId>
             <artifactId>jndi</artifactId>
             <version>1.2.1</version>
         </dependency>
         <dependency>
-            <groupId>jta</groupId>
+            <groupId>javax.transaction</groupId>
             <artifactId>jta</artifactId>
             <version>1.0.1b</version>
         </dependency>
